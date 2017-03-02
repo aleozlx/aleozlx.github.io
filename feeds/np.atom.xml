@@ -1022,7 +1022,7 @@ h6:hover .anchor-link {
 &lt;div class="output_area"&gt;
 &lt;div class="prompt output_prompt"&gt;Out[2]:&lt;/div&gt;
 &lt;div class="output_text output_subarea output_execute_result"&gt;
-&lt;pre&gt;&lt;matplotlib.image.axesimage at 0x1100b4690&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;matplotlib.image.axesimage at 0x7f2dee0b2b10&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="output_area"&gt;
@@ -7123,13 +7123,13 @@ oKaYYooppjjJmL6gpphiiimmOMmYvqCmmGKKKaY4yZi+oKaYYooppjjJmL6gpphiiimmOMn4/wAV
 &lt;div class="output_area"&gt;
 &lt;div class="prompt"&gt;&lt;/div&gt;
 &lt;div class="output_subarea output_stream output_stdout output_text"&gt;
-&lt;pre&gt;[[ 0.45228441  0.69899922  0.60149869  0.30791444]
- [ 0.79782678  0.0661056   0.22483317  0.40195401]
- [ 0.14825466  0.91179907  0.54881477  0.83153059]
- [ 0.62912291  0.14220323  0.94512288  0.79939053]
- [ 0.83097474  0.91217653  0.0438518   0.3212055 ]]
-[ 1.07227472  0.92358784  1.35867501  1.39581513  1.27580601]
-[ 0.         0.1469855  0.         0.         0.       ]
+&lt;pre&gt;[[ 0.77122084  0.01190567  0.39372347  0.07684912]
+ [ 0.118016    0.82050051  0.29813113  0.73399302]
+ [ 0.22025827  0.66265486  0.94508802  0.61278968]
+ [ 0.32434338  0.58029184  0.60821074  0.81031471]
+ [ 0.28148897  0.9233937   0.94677695  0.20537127]]
+[ 0.86939479  1.14663717  1.32526516  1.2118034   1.36764613]
+[ 0.2441527  0.         0.         0.         0.       ]
 &lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -7157,7 +7157,7 @@ oKaYYooppjjJmL6gpphiiimmOMmYvqCmmGKKKaY4yZi+oKaYYooppjjJmL6gpphiiimmOMn4/wAV
 &lt;div class="output_area"&gt;
 &lt;div class="prompt output_prompt"&gt;Out[6]:&lt;/div&gt;
 &lt;div class="output_text output_subarea output_execute_result"&gt;
-&lt;pre&gt;&lt;matplotlib.colorbar.colorbar at 0x10cca9fd0&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;matplotlib.colorbar.colorbar at 0x7f2ded64f4d0&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="output_area"&gt;
@@ -7412,7 +7412,7 @@ UGMEAgAA1Nj/B6N1NoDi7bAkAAAAAElFTkSuQmCC
 &lt;div class="output_area"&gt;
 &lt;div class="prompt"&gt;&lt;/div&gt;
 &lt;div class="output_subarea output_stream output_stdout output_text"&gt;
-&lt;pre&gt;[False  True False False False]
+&lt;pre&gt;[ True False False False False]
 &lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -7482,14 +7482,14 @@ UGMEAgAA1Nj/B6N1NoDi7bAkAAAAAElFTkSuQmCC
 &lt;div class="output_area"&gt;
 &lt;div class="prompt"&gt;&lt;/div&gt;
 &lt;div class="output_subarea output_stream output_stdout output_text"&gt;
-&lt;pre&gt;Feature sample [[ 0.35674878 -0.28605786 -0.51498129]
- [-0.01650575 -0.42571958 -0.11935839]
- [-0.22486106  0.3673326   0.2970744 ]
- [-0.11599682  0.03604929 -0.030027  ]
- [-0.05903191 -0.41035816  0.38209061]]
+&lt;pre&gt;Feature sample [[-0.27393319  0.37676314 -0.29377894]
+ [ 0.17570214 -0.05401148 -0.30849438]
+ [-0.42028272 -0.43210488 -0.56594209]
+ [-0.5432857   0.14733955  0.00776336]
+ [-0.50257136 -0.06648116  0.30340738]]
 Neighbor mask [ True  True  True  True  True]
-Mean(Epanechnikov) [-0.03854421 -0.12636602  0.02152005]
-Mean(flat kernel) [-0.01192935 -0.14375074  0.00295966]
+Mean(Epanechnikov) [-0.27003816  0.0422962  -0.13971624]
+Mean(flat kernel) [-0.31287416 -0.00569897 -0.17140893]
 &lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -7562,7 +7562,7 @@ Mean(flat kernel) [-0.01192935 -0.14375074  0.00295966]
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h2 id="Time-to-segment-the-test-image"&gt;Time to segment the test image&lt;a class="anchor-link" href="#Time-to-segment-the-test-image"&gt;¶&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here's an idea:&lt;/p&gt;
+&lt;h2 id="Time-to-segment-the-test-image"&gt;Time to segment the test image&lt;a class="anchor-link" href="#Time-to-segment-the-test-image"&gt;¶&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here's an idea: (brute force)&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -7613,8 +7613,8 @@ Mean(flat kernel) [-0.01192935 -0.14375074  0.00295966]
 &lt;div class="prompt"&gt;&lt;/div&gt;
 &lt;div class="output_subarea output_stream output_stdout output_text"&gt;
 &lt;pre&gt;[0][256][512][768]Job cancelled at 2%. Just showing how slow this would be on a real image.
-CPU times: user 23.2 s, sys: 1.67 s, total: 24.9 s
-Wall time: 24.9 s
+CPU times: user 41.1 s, sys: 0 ns, total: 41.1 s
+Wall time: 41.1 s
 &lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -7626,8 +7626,23 @@ Wall time: 24.9 s
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;&lt;strong&gt;Apply some quantized memorization&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Trading accuracy for speedup...&lt;/p&gt;
+&lt;h2 id="Why-is-mean-shift-so-slow?"&gt;Why is mean-shift so slow?&lt;a class="anchor-link" href="#Why-is-mean-shift-so-slow?"&gt;¶&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Mean-shift usually takes time of O(N^2 * max_iterations), N being the number of data points whose dimension is far less than that.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;def im_mean_shift2_timecomplexity(im, r, max_iterations=300):
+    d = im.reshape((-1, 3))
+    for i,p in enumerate(d): # O(N)
+        for ct in xrange(max_iterations): # O(max_iterations)
+            mean_shift_mean2(d,p,r) # O(N) \w vectorization&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;With image segmentation, N would be the image size, so the time complixity would be like O(height ^2 * width ^2 * max_iterations) which is terrible.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;h2 id="Optimization-1"&gt;Optimization 1&lt;a class="anchor-link" href="#Optimization-1"&gt;¶&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Apply some quantized memorization&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trading (accuracy + space) for speedup...&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -7637,10 +7652,10 @@ Wall time: 24.9 s
 &lt;div class="inner_cell"&gt;
 &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;im_mean_shift&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;im&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;r&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;max_iterations&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;300&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
-    &lt;span class="n"&gt;mem&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;{};&lt;/span&gt; &lt;span class="n"&gt;prehash&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;lambda&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;tuple&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;map&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;int&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+    &lt;span class="n"&gt;mem&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;{};&lt;/span&gt; &lt;span class="n"&gt;prehash&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;lambda&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;tuple&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;map&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;int&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt; &lt;span class="c1"&gt;# quantization happens here&lt;/span&gt;
     &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;quantized_memorized_mean_shift&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
         &lt;span class="n"&gt;key&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;prehash&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;key&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;mem&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;key&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;mem&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="c1"&gt;# memorization happens here&lt;/span&gt;
             &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;ct&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;xrange&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;max_iterations&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
                 &lt;span class="n"&gt;pre&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;copy&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
                 &lt;span class="n"&gt;p&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;mean_shift_mean2&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;r&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
@@ -7678,23 +7693,6 @@ Wall time: 24.9 s
 &lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;sklearn.cluster&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;estimate_bandwidth&lt;/span&gt;
 &lt;span class="n"&gt;bandwidth&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;estimate_bandwidth&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;im_test&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;reshape&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;)),&lt;/span&gt; &lt;span class="n"&gt;quantile&lt;/span&gt;&lt;span class="o"&gt;=.&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;n_samples&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;500&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'bandwidth'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;bandwidth&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-
-&lt;span class="c1"&gt;# Our mean-shift implementation&lt;/span&gt;
-&lt;span class="n"&gt;im_out&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;im_mean_shift&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;im_test&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;bandwidth&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;figure&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;figsize&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
-&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;title&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'Output image'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;imshow&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;im_out&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;unique_colors&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;vstack&lt;/span&gt;&lt;span class="p"&gt;({&lt;/span&gt;&lt;span class="nb"&gt;tuple&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;row&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;row&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;im_out&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;reshape&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;))})&lt;/span&gt;
-&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'im_mean_shift #clusters'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;unique_colors&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;shape&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt;
-
-&lt;span class="c1"&gt;# sklearn mean-shift implementation&lt;/span&gt;
-&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;sklearn.cluster&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;MeanShift&lt;/span&gt;
-&lt;span class="n"&gt;ms&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;MeanShift&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;bandwidth&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;bin_seeding&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="bp"&gt;True&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;ms&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;fit&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;im_test&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;reshape&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;)))&lt;/span&gt;
-&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;figure&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;figsize&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
-&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;title&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'sklearn MeanShift'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;imshow&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;reshape&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;ms&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;labels_&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;im_test&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;shape&lt;/span&gt;&lt;span class="p"&gt;[:&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;]))&lt;/span&gt;
-&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'sklearn MeanShift #clusters'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;unique&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;ms&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;labels_&lt;/span&gt;&lt;span class="p"&gt;)))&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -7705,9 +7703,6 @@ Wall time: 24.9 s
 &lt;div class="prompt"&gt;&lt;/div&gt;
 &lt;div class="output_subarea output_stream output_stdout output_text"&gt;
 &lt;pre&gt;bandwidth 52.5143042144
-[0][256][512][768][1024][1280][1536][1792][2048][2304][2560][2816][3072][3328][3584][3840][4096][4352][4608][4864][5120][5376][5632][5888][6144][6400][6656][6912][7168][7424][7680][7936][8192][8448][8704][8960][9216][9472][9728][9984][10240][10496][10752][11008][11264][11520][11776][12032][12288][12544][12800][13056][13312][13568][13824][14080][14336][14592][14848][15104][15360][15616][15872][16128][16384][16640][16896][17152][17408][17664][17920][18176][18432][18688][18944][19200][19456][19712][19968][20224][20480][20736][20992][21248][21504][21760][22016][22272][22528][22784][23040][23296][23552][23808][24064][24320][24576][24832][25088][25344][25600][25856][26112][26368][26624][26880][27136][27392][27648][27904][28160][28416][28672][28928][29184][29440][29696][29952][30208][30464][30720][30976][31232][31488][31744][32000][32256][32512][32768][33024][33280][33536][33792][34048][34304][34560][34816][35072][35328][35584][35840][36096][36352][36608][36864][37120][37376][37632][37888][38144][38400][38656][38912][39168][39424][39680][39936]
-im_mean_shift #clusters 28
-sklearn MeanShift #clusters 6
 &lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -9763,6 +9758,37 @@ Gf8fOCyJKOp3L1QAAAAASUVORK5CYII=
 "&gt;
 &lt;/img&gt;&lt;/div&gt;
 &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In [16]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;# Our mean-shift implementation&lt;/span&gt;
+&lt;span class="o"&gt;%&lt;/span&gt;&lt;span class="k"&gt;time&lt;/span&gt; im_out = im_mean_shift(im_test, bandwidth)
+&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;figure&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;figsize&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;title&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'Output image'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;imshow&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;im_out&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;unique_colors&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;vstack&lt;/span&gt;&lt;span class="p"&gt;({&lt;/span&gt;&lt;span class="nb"&gt;tuple&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;row&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;row&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;im_out&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;reshape&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;))})&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'im_mean_shift #clusters'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;unique_colors&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;shape&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+&lt;div class="output_area"&gt;
+&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;[0][256][512][768][1024][1280][1536][1792][2048][2304][2560][2816][3072][3328][3584][3840][4096][4352][4608][4864][5120][5376][5632][5888][6144][6400][6656][6912][7168][7424][7680][7936][8192][8448][8704][8960][9216][9472][9728][9984][10240][10496][10752][11008][11264][11520][11776][12032][12288][12544][12800][13056][13312][13568][13824][14080][14336][14592][14848][15104][15360][15616][15872][16128][16384][16640][16896][17152][17408][17664][17920][18176][18432][18688][18944][19200][19456][19712][19968][20224][20480][20736][20992][21248][21504][21760][22016][22272][22528][22784][23040][23296][23552][23808][24064][24320][24576][24832][25088][25344][25600][25856][26112][26368][26624][26880][27136][27392][27648][27904][28160][28416][28672][28928][29184][29440][29696][29952][30208][30464][30720][30976][31232][31488][31744][32000][32256][32512][32768][33024][33280][33536][33792][34048][34304][34560][34816][35072][35328][35584][35840][36096][36352][36608][36864][37120][37376][37632][37888][38144][38400][38656][38912][39168][39424][39680][39936]
+CPU times: user 56.9 s, sys: 100 ms, total: 57 s
+Wall time: 56.7 s
+im_mean_shift #clusters 28
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;div class="output_area"&gt;
 &lt;div class="prompt"&gt;&lt;/div&gt;
 &lt;div class="output_png output_subarea "&gt;
@@ -9942,6 +9968,46 @@ TN0s6SZJr0+w7pU/K5Lem332t0t6bYqffVZ+oaS3l/ZN6rMf1RdTHQEAkpTCJT4AAHZCAwUASBIN
 FAAgSTRQAIAk0UABAJJEAwUASBINFAAgSf8fmtn/F5BZMgEAAAAASUVORK5CYII=
 "&gt;
 &lt;/img&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;Compare with sklearn&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In [17]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;# sklearn mean-shift implementation&lt;/span&gt;
+&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;sklearn.cluster&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;MeanShift&lt;/span&gt;
+&lt;span class="n"&gt;ms&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;MeanShift&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;bandwidth&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;bin_seeding&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="bp"&gt;True&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="o"&gt;%&lt;/span&gt;&lt;span class="k"&gt;time&lt;/span&gt; ms.fit(im_test.reshape((-1, 3)))
+&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;figure&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;figsize&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;title&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'sklearn MeanShift'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;imshow&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;reshape&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;ms&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;labels_&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;im_test&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;shape&lt;/span&gt;&lt;span class="p"&gt;[:&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;]))&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'sklearn MeanShift #clusters'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;unique&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;ms&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;labels_&lt;/span&gt;&lt;span class="p"&gt;)))&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+&lt;div class="output_area"&gt;
+&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;CPU times: user 1.03 s, sys: 0 ns, total: 1.03 s
+Wall time: 1.02 s
+sklearn MeanShift #clusters 6
+&lt;/pre&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="output_area"&gt;
 &lt;div class="prompt"&gt;&lt;/div&gt;
@@ -10134,16 +10200,85 @@ NP/hx4v7MQAAAABJRU5ErkJggg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h2 id="Result-looks-decent-so-far...-Why-so-many-clusters-more-than-sklearn?"&gt;Result looks decent so far... Why so many clusters more than sklearn?&lt;a class="anchor-link" href="#Result-looks-decent-so-far...-Why-so-many-clusters-more-than-sklearn?"&gt;¶&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The test image can be segmented within tolerable amount of time. And result looks good (noise and reflection gone).&lt;/p&gt;
+&lt;h2 id="That's-some-progress!"&gt;That's some progress!&lt;a class="anchor-link" href="#That's-some-progress!"&gt;¶&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;-- though just a tolerable naive implementation.&lt;/p&gt;
+&lt;p&gt;So memorization reduced time complexity from O(image size &lt;strong&gt;squared&lt;/strong&gt; * max_iterations) to O(quantized feature space size * image size * max_iterations) at cost of extra space complexity of O(quantized feature space size). But asymptotically the extra space complexity is like nothing because (quantized feature space size)&lt;(feature space size)=O(image size).&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;h2 id="Optimization-2"&gt;Optimization 2&lt;a class="anchor-link" href="#Optimization-2"&gt;¶&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Consider this, if we started off by running mean-shift on the quantized feature space, then associated the mean-shift result back to image pixels. The memorization can be removed.&lt;/p&gt;
+&lt;p&gt;The logic goes like this:&lt;/p&gt;
+&lt;p&gt;(Mean-shift image) = ((memorized Mean-shift) image) = (find image (Mean-shift (unique image)))
+where (unique image) converts image into feature space and lose spatial information and (find needle haystack) restores spatial information.&lt;/p&gt;
+&lt;p&gt;Let N = (image size), Q = (quantized feature space size), M = max_iterations&lt;/p&gt;
+&lt;h3 id="Comparison"&gt;Comparison&lt;a class="anchor-link" href="#Comparison"&gt;¶&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;(Mean-shift image)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Time complexity = O(N^2 M)&lt;/li&gt;
+&lt;li&gt;Space complixity = O(N)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;((memorized Mean-shift) image)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Time complexity = O(N Q M)&lt;/li&gt;
+&lt;li&gt;Space complixity = O(N) + O(Q) = O(N)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(find image (Mean-shift (unique image)))&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Time complexity = O(N log Q) + O(Q ^2) + O(Q log Q) = O(N log Q) + O(Q ^2 M)&lt;/li&gt;
+&lt;li&gt;Space complixity = O(N)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Luckly, np.unique() can also return the inverse indices, so it becomes:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(un-unique (Mean-shift (unique image))) &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Time complexity = O(N) + O(Q ^2) + O(Q log Q) = O(N) + O(Q ^2 M)&lt;/li&gt;
+&lt;li&gt;Space complixity = O(N)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In [16]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In [18]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="input_area"&gt;
-&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;unique_colors&lt;/span&gt; &lt;span class="c1"&gt;# clusters from im_mean_shift()&lt;/span&gt;
+&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;im_mean_shift2&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;im&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;r&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;max_iterations&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;300&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;mode&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="n"&gt;threshold&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;r&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="mf"&gt;1e-3&lt;/span&gt;
+        &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;ct&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;xrange&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;max_iterations&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+            &lt;span class="n"&gt;pre&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;copy&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+            &lt;span class="n"&gt;p&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;mean_shift_mean2&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;q&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;r&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+            &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;linalg&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;norm&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;pre&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;&lt;&lt;/span&gt; &lt;span class="n"&gt;threshold&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+                &lt;span class="k"&gt;break&lt;/span&gt;
+        &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;astype&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'u1'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;quantized_feature&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="n"&gt;q&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;&gt;&gt;&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="o"&gt;&lt;&lt;&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="c1"&gt;# quantization happens here&lt;/span&gt;
+        &lt;span class="n"&gt;magic&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;ascontiguousarray&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;q&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;view&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;dtype&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;void&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;q&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;dtype&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;itemsize&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt; &lt;span class="n"&gt;q&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;shape&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;])))&lt;/span&gt;
+        &lt;span class="n"&gt;_&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;idx&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;inv&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;unique&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;magic&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;return_index&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="bp"&gt;True&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;return_inverse&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="bp"&gt;True&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;q&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;idx&lt;/span&gt;&lt;span class="p"&gt;],&lt;/span&gt; &lt;span class="n"&gt;inv&lt;/span&gt;
+                    
+    &lt;span class="n"&gt;d&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;im&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;reshape&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+    &lt;span class="n"&gt;q&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;inv&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;quantized_feature&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;array&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="n"&gt;mode&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;p&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;q&lt;/span&gt;&lt;span class="p"&gt;])[&lt;/span&gt;&lt;span class="n"&gt;inv&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;reshape&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;im&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;shape&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In [19]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;%&lt;/span&gt;&lt;span class="k"&gt;time&lt;/span&gt; im_out = im_mean_shift2(im_test, bandwidth)
+&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;figure&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;figsize&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;title&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'Output image'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;imshow&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;im_out&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;unique_colors&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;vstack&lt;/span&gt;&lt;span class="p"&gt;({&lt;/span&gt;&lt;span class="nb"&gt;tuple&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;row&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;row&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;im_out&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;reshape&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;))})&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'im_mean_shift #clusters'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;unique_colors&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;shape&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -10151,168 +10286,190 @@ NP/hx4v7MQAAAABJRU5ErkJggg==
 &lt;div class="output_wrapper"&gt;
 &lt;div class="output"&gt;
 &lt;div class="output_area"&gt;
-&lt;div class="prompt output_prompt"&gt;Out[16]:&lt;/div&gt;
-&lt;div class="output_text output_subarea output_execute_result"&gt;
-&lt;pre&gt;array([[ 91,  96, 198],
-       [142,  45,  36],
-       [233, 238, 232],
-       [240, 240, 154],
-       [146, 123,  39],
-       [237, 243, 207],
-       [147,  35,  73],
-       [143,  41,  29],
-       [226, 234, 237],
-       [215, 219, 208],
-       [130, 132, 131],
-       [ 70, 136,  62],
-       [100,  95, 179],
-       [132,  51,  34],
-       [ 48,  50, 120],
-       [176,  37,  56],
-       [ 99,  95, 205],
-       [ 99, 102, 197],
-       [139,  29,  32],
-       [ 70, 145,  44],
-       [234, 228, 232],
-       [136,  42,  94],
-       [100,  91, 198],
-       [ 59, 129,  67],
-       [241, 241, 231],
-       [ 60, 115,  35],
-       [222, 224, 114],
-       [ 66, 139,  50]], dtype=uint8)&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="cell border-box-sizing code_cell rendered"&gt;
-&lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In [17]:&lt;/div&gt;
-&lt;div class="inner_cell"&gt;
-&lt;div class="input_area"&gt;
-&lt;div class=" highlight hl-ipython2"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;figure&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;figsize&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
-&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;title&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'im_mean_shift() clusters'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;imshow&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;unique_colors&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;reshape&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;4&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="output_wrapper"&gt;
-&lt;div class="output"&gt;
-&lt;div class="output_area"&gt;
-&lt;div class="prompt output_prompt"&gt;Out[17]:&lt;/div&gt;
-&lt;div class="output_text output_subarea output_execute_result"&gt;
-&lt;pre&gt;&lt;matplotlib.image.axesimage at 0x11088ded0&gt;&lt;/pre&gt;
+&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;CPU times: user 19.8 s, sys: 8 ms, total: 19.8 s
+Wall time: 19.8 s
+im_mean_shift #clusters 29
+&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="output_area"&gt;
 &lt;div class="prompt"&gt;&lt;/div&gt;
 &lt;div class="output_png output_subarea "&gt;
-&lt;img src="data:image/png;base64,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
-tY570fnbXNuO7tlX75QPZN9qJ3/pq9MuYU7t9oiV0y5hzlz4F3817RLm1MmnXTTtEubUxw5t+5bu
-G7/3uaurauls7Sa9LLkSeFW3/Crgf482SPLoJLt1y/sDRwI3TTiuJEkzmjTc/hw4pvszFL/brZNk
-af7prwU/FViV5HrgSgYPwDXcJElzZqI/+ldVdzD4kxyj21cBr+uWvw7880nGkSTp1+HjtyRJzTHc
-JEnNMdwkSc0x3CRJzTHcJEnNMdwkSc0x3CRJzTHcJEnNMdwkSc0x3CRJzTHcJEnNMdwkSc0x3CRJ
-zTHcJEnNMdwkSc0x3CRJzTHcJEnNMdwkSc0x3CRJzekl3JIcm+TmJGuTnDZm/25JLu72X5VkSR/j
-SpI0zsThlmQe8H7gOOBpwCuSPG2k2WuBO6vqScC7gbMnHVeSpJn0ceZ2OLC2qr5fVT8HLgJOGmlz
-EnBBt3wJ8Pwk6WFsSZIepo9wOxBYN7S+vts2tk1VbQLuAvYb7SjJ8iSrkqx64IE7eyhNkrQr2qEm
-lFTViqpaWlVLd9/90dMuR5K0k+oj3G4BDhpaX9xtG9smyXxgX+COHsaWJOlh+gi3bwKHJHlCkkcC
-y4CVI21WAq/qll8KfKGqqoexJUl6mPmTdlBVm5KcClwOzAPOr6rVSc4CVlXVSuA84MNJ1gIbGASg
-JElzYuJwA6iqy4DLRradObT8APCyPsaSJGk2O9SEEkmS+mC4SZKaY7hJkppjuEmSmmO4SZKaY7hJ
-kppjuEmSmmO4SZKaY7hJkppjuEmSmmO4SZKaY7hJkppjuEmSmmO4SZKaY7hJkppjuEmSmmO4SZKa
-Y7hJkppjuEmSmtNLuCU5NsnNSdYmOW3M/lcn+UmS67rX6/oYV5KkceZP2kGSecD7gWOA9cA3k6ys
-qptGml5cVadOOp4kSbPp48ztcGBtVX2/qn4OXASc1EO/kiRtk4nP3IADgXVD6+uBI8a0e0mS5wHf
-Af5TVa0bbZBkObAc4NHz57H0qt/robwd00u+dN20S5hTG+542I+3KZ+8+MfTLmHOfHXvx067hDl1
-w6nrp13CnFqy8OZpl7BD2F4TSj4LLKmqfwFcAVwwrlFVraiqpVW1dM/5znWRJG2bPhLkFuCgofXF
-3bZfqqo7qurBbvVc4Nk9jCtJ0lh9hNs3gUOSPCHJI4FlwMrhBkkWDa2eCKzpYVxJksaa+J5bVW1K
-cipwOTAPOL+qVic5C1hVVSuBP0pyIrAJ2AC8etJxJUmaSR8TSqiqy4DLRradObR8OnB6H2NJkjQb
-Z21IkppjuEmSmmO4SZKaY7hJkppjuEmSmmO4SZKaY7hJkppjuEmSmmO4SZKaY7hJkppjuEmSmmO4
-SZKaY7hJkppjuEmSmmO4SZKaY7hJkppjuEmSmmO4SZKaY7hJkprTS7glOT/J7Um+NcP+JHlvkrVJ
-bkjyrD7GlSRpnL7O3D4EHLuF/ccBh3Sv5cAHehpXkqSH6SXcqurLwIYtNDkJuLAGvgEsTLKoj7El
-SRq1ve65HQisG1pf3237FUmWJ1mVZNW9mx7aTqVJklqzQ00oqaoVVbW0qpbuOX+HKk2StBPZXgly
-C3DQ0PribpskSb3bXuG2EnhlN2vyOcBdVXXrdhpbkrSLmd9HJ0k+DhwF7J9kPfB2YAFAVZ0DXAYc
-D6wF7gNe08e4kiSN00u4VdUrZtlfwBv6GEuSpNk4a0OS1BzDTZLUHMNNktQcw02S1BzDTZLUHMNN
-ktQcw02S1BzDTZLUHMNNktQcw02S1BzDTZLUHMNNktQcw02S1BzDTZLUHMNNktQcw02S1BzDTZLU
-HMNNktQcw02S1Jxewi3J+UluT/KtGfYfleSuJNd1rzP7GFeSpHHm99TPh4D3ARduoc1XquqEnsaT
-JGlGvZy5VdWXgQ199CVJ0qT6OnPbGs9Ncj3wI+AtVbV6tEGS5cBygAWP3IcL9jh5O5a3fT3hyBdO
-u4Q59dl/9f5plzC3djt62hXMmWM+d960S5hTV7zl9GmXMKfe+adfn3YJc+ptix+3Ve22V7hdAxxc
-VRuTHA/8DXDIaKOqWgGsAHjUnotqO9UmSWrMdpktWVV3V9XGbvkyYEGS/bfH2JKkXc92Cbckj0uS
-bvnwbtw7tsfYkqRdTy+XJZN8HDgK2D/JeuDtwAKAqjoHeCnw+iSbgPuBZVXlZUdJ0pzoJdyq6hWz
-7H8fg48KSJI053xCiSSpOYabJKk5hpskqTmGmySpOYabJKk5hpskqTmGmySpOYabJKk5hpskqTmG
-mySpOYabJKk5hpskqTmGmySpOYabJKk5hpskqTmGmySpOYabJKk5hpskqTmGmySpOROHW5KDklyZ
-5KYkq5O8aUybJHlvkrVJbkjyrEnHlSRpJvN76GMT8MdVdU2SvYGrk1xRVTcNtTkOOKR7HQF8oPsq
-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
-AAAAAElFTkSuQmCC
+&lt;img src="data:image/png;base64,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
 "&gt;
 &lt;/img&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -10324,8 +10481,17 @@ AAAAAElFTkSuQmCC
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h2 id="To-be-continued..."&gt;To be continued...&lt;a class="anchor-link" href="#To-be-continued..."&gt;¶&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Related links:&lt;/p&gt;
-&lt;ol&gt;
+&lt;p&gt;Further speedup is still possible from O(N) + O(Q ^2 M) to O(N) + O(Q log Q M) but might be a little bit off-topic..&lt;/p&gt;
+&lt;p&gt;At this point we are still 20x slower than sklearn implementation, but asymptotically there have been a lot of improvements without much advanced algorithm but more careful consideration.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;h2 id="Related-links:"&gt;Related links:&lt;a class="anchor-link" href="#Related-links:"&gt;¶&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;&lt;a href="http://sociograph.blogspot.com/2011/11/scalable-mean-shift-clustering-in-few.html"&gt;Scalable mean-shift clustering in a few lines of python&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://gist.github.com/conradlee/1376528#file-mean_shift-py"&gt;mean_shift.py&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/scikit-learn/scikit-learn/blob/14031f6/sklearn/cluster/mean_shift_.py#L282"&gt;sklearn MeanShift&lt;/a&gt;&lt;/li&gt;
